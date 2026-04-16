@@ -2,3 +2,4 @@ jadwal sim :
 - kontrak
 - pendahuluan
 - review
+- koneksi data dari sql ke R 
